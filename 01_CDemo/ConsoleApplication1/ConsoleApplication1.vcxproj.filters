@@ -51,9 +51,6 @@
     <ClCompile Include="14_两头堵.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="13_Exam.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="15_指针反转.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -66,7 +63,13 @@
     <ClCompile Include="01_MemoryBasic.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="18_二级指针做输入1.c">
+    <ClCompile Include="19_二级指针做输入_内存模型2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13_Exam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18_二级指针做输入_内存模型1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

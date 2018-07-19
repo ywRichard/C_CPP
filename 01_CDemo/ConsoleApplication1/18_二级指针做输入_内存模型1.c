@@ -21,7 +21,7 @@ void sortMyArray(char **myArray, int num) {
 		{
 			if (strcmp(myArray[i], myArray[j]) > 0)
 			{
-				tmp = myArray[i];
+				tmp = myArray[i];//交换的是内存块
 				myArray[i] = myArray[j];
 				myArray[j] = tmp;
 			}
@@ -29,7 +29,8 @@ void sortMyArray(char **myArray, int num) {
 	}
 }
 
-void main()
+//第一种内存模型
+void main18()
 {
 	int i = 0, j = 0;
 	int num = 0;
