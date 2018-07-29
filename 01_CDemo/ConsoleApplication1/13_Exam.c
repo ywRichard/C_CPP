@@ -30,7 +30,7 @@ int TrimSpace(char *source/*in*/, char *dest) {
 }
 
 //练习2、挑选出字符串中的奇数和偶数组成两个新的字符串，并通过参数传递给主函数打印.
-bool isNum(char c) {
+int isNum(char c) {
 	int n = c;
 	return (n >= 48) && (n <= 57);
 }
@@ -68,7 +68,6 @@ int getStr1Str2(char *source, char *buf1/*even*/, char *buf2/*odd*/) {
 
 	return 0;
 }
-
 
 //练习3、模拟键值对集合
 //从字符串中提取键和值

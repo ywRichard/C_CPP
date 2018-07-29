@@ -1,6 +1,2 @@
-﻿  19_二级指针做输入_内存模型2.c
-c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\19_二级指针做输入_内存模型2.c(50): warning C4101: 'myBuf': unreferenced local variable
-  18_二级指针做输入_内存模型1.c
-  Generating Code...
-  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\ConsoleApplication1.exe
+﻿  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\ConsoleApplication1.pdb (Partial PDB)

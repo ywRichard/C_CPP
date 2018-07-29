@@ -43,7 +43,7 @@ void sortMyArray02(char myArray[10][30], int num) {
 }
 
 //第二种内存模型
-void main()
+void main19()
 {
 	int i = 0, j = 0;
 	int num = 4;

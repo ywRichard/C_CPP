@@ -72,5 +72,29 @@
     <ClCompile Include="18_二级指针做输入_内存模型1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20_二级指针做输入_内存模型3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21_二级指针内存模型_Summary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22_多级指针.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23_Exam2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="24_Array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25_struct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25_strcut_nested_point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="26_Exam03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
