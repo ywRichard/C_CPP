@@ -166,6 +166,11 @@
     <ClCompile Include="25_strcut_nested_point.c" />
     <ClCompile Include="25_struct.c" />
     <ClCompile Include="26_Exam03.c" />
+    <ClCompile Include="25_struct_偏移量.c" />
+    <ClCompile Include="27_FileRWbyByte.c" />
+    <ClCompile Include="28_指针其他.c" />
+    <ClCompile Include="29_多级指针强化.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

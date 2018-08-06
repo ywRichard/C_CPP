@@ -1,2 +1,155 @@
-﻿  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\ConsoleApplication1.exe
+﻿  test.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\test.c(16): warning C4033: 'maintest' must return a value
+  27_FileRWbyByte.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(16): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(16): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(16): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(36): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(36): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(36): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(63): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(63): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(63): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(82): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(82): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\27_filerwbybyte.c(82): note: the missing variadic argument 1 is required by format string '%d'
+  25_struct_偏移量.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct_偏移量.c(32): warning C4033: 'main254' must return a value
+  26_Exam03.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\26_exam03.c(68): warning C4553: '==': operator has no effect; did you intend '='?
+  25_struct.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(40): warning C4133: '=': incompatible types - from 'Teacher1 *' to 'Teacher *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(79): warning C4033: 'createTeacherArr' must return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(86): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(103): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(125): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(109): warning C4101: 't2': unreferenced local variable
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(110): warning C4101: 't3': unreferenced local variable
+  25_strcut_nested_point.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_strcut_nested_point.c(26): warning C4047: 'initializing': 'char **' differs in levels of indirection from 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_strcut_nested_point.c(40): warning C4033: 'printfStudentArr' must return a value
+  24_Array.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(32): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(32): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(33): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'MyArrayType (*)'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(33): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'MyArrayType (*)'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(44): warning C4101: 'myArray': unreferenced local variable
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(156): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [3][5]'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(156): warning C4024: 'printArray04': different types for formal and actual parameter 1
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(168): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[5]'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(168): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int (*)[5]'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(169): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[3][5]'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\24_array.c(169): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int (*)[3][5]'
+  23_Exam2.c
+  22_多级指针.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\22_多级指针.c(70): warning C4101: 'tmpBuf': unreferenced local variable
+  21_二级指针内存模型_Summary.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\21_二级指针内存模型_summary.c(15): warning C4047: 'initializing': 'char **' differs in levels of indirection from 'char *'
+  20_二级指针做输入_内存模型3.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\20_二级指针做输入_内存模型3.c(161): warning C4101: 'tmpBuf': unreferenced local variable
+  19_二级指针做输入_内存模型2.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\19_二级指针做输入_内存模型2.c(50): warning C4101: 'myBuf': unreferenced local variable
+  18_二级指针做输入_内存模型1.c
+  17_指针的输入和输出特性.c
+  16_const类型.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\16_const类型.c(8): warning C4047: '=': 'const char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\16_const类型.c(9): warning C4047: '=': 'const char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\16_const类型.c(52): warning C4090: 'initializing': different 'const' qualifiers
+  15_指针反转.c
+  14_两头堵.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\14_两头堵.c(19): warning C4013: 'isspace' undefined; assuming extern returning int
+  13_Exam.c
+  12_项目开发字符串模型.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\12_项目开发字符串模型.c(75): warning C4047: '==': 'int' differs in levels of indirection from 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\12_项目开发字符串模型.c(78): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+  11_字符串_做函数参数.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\11_字符串_做函数参数.c(125): warning C4098: 'main112': 'void' function returning a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\11_字符串_做函数参数.c(160): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char **'
+  Generating Code...
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\11_字符串_做函数参数.c(84): warning C4715: 'cpy_str5': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\11_字符串_做函数参数.c(144): warning C4715: 'cpy_str6_good': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\11_字符串_做函数参数.c(153): warning C4715: 'cpy_str6_err': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\13_exam.c(158): warning C4715: 'getKeyValue01': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\15_指针反转.c(28): warning C4715: 'inverse01': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\22_多级指针.c(63): warning C4715: 'freeMem041': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_strcut_nested_point.c(48): warning C4716: 'printfStudentArr': must return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct.c(80): warning C4716: 'createTeacherArr': must return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\26_exam03.c(69): warning C4715: 'freeStudent': not all control paths return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\25_struct_偏移量.c(33): warning C4716: 'main254': must return a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\test.c(17): warning C4716: 'maintest': must return a value
+  Compiling...
+  10_一级指针内存模型的建立.c
+  08_指针的输入输出.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\08_指针的输入输出.c(43): warning C4013: 'getMem5' undefined; assuming extern returning int
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\08_指针的输入输出.c(46): warning C4098: 'main08': 'void' function returning a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\08_指针的输入输出.c(49): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\08_指针的输入输出.c(56): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  07_指针的间接赋值.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(30): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(30): warning C4024: 'getFileLen': different types for formal and actual parameter 1
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(44): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(55): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(63): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(64): warning C4047: '=': 'char **' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(66): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(70): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(74): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(81): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(81): warning C4024: 'getMem4': different types for formal and actual parameter 1
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(67): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(71): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(75): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(79): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(82): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(116): warning C4098: 'main73': 'void' function returning a value
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(119): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(126): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  06_野指针.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\06_野指针.c(15): warning C4047: '=': 'char *' differs in levels of indirection from 'char'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\06_野指针.c(24): warning C4047: '=': 'char *' differs in levels of indirection from 'bool'
+  05_指针铁律.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\05_指针铁律.c(15): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\05_指针铁律.c(16): warning C4047: 'initializing': 'char ****' differs in levels of indirection from 'int'
+  04_堆栈的属性测试.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\04_堆栈的属性测试.c(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\04_堆栈的属性测试.c(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\04_堆栈的属性测试.c(15): warning C4101: 'buf': unreferenced local variable
+  03_堆栈理解.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\03_堆栈理解.c(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\03_堆栈理解.c(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\03_堆栈理解.c(43): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\03_堆栈理解.c(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  02_静态储存区理解.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(33): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(19): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char **'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(19): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char **'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char **'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char **'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(31): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(34): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(35): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\02_静态储存区理解.c(38): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  01_MemoryBasic.c
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(19): warning C4133: '=': incompatible types - from 'int *' to 'char *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(20): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(28): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(28): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(28): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int (*)[10]'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(28): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'int (*)[10]'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\01_memorybasic.c(8): warning C4101: 'b': unreferenced local variable
+  Generating Code...
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\03_堆栈理解.c(22): warning C4172: returning address of local variable or temporary: buf
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\07_指针的间接赋值.c(11): warning C4716: 'getFileLen': must return a value
+  09_c的字符串.cpp
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\09_c的字符串.cpp(23): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\09_c的字符串.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\09_c的字符串.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\c_cpp\01_cdemo\consoleapplication1\09_c的字符串.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\ConsoleApplication1.pdb (Partial PDB)

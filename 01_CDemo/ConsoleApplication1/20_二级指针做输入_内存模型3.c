@@ -167,6 +167,7 @@ void main201()
 
 	//ÊÍ·ÅÄÚ´æ
 	freeMem(p2, num);
+	p2 = NULL;
 
 	printf("hello....\n");
 	system("pause");

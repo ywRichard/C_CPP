@@ -1,0 +1,6 @@
+﻿  TestDemo.c
+  cfg_op.c
+c:\users\admin\desktop\c_cpp\01_cdemo\02_配置文件读写\cfg_op.c(56): warning C4013: 'trimStr' undefined; assuming extern returning int
+  Generating Code...
+  02_配置文件读写.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\02_配置文件读写.exe
+  02_配置文件读写.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\02_配置文件读写.pdb (Partial PDB)

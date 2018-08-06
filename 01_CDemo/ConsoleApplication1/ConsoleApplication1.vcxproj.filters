@@ -96,5 +96,20 @@
     <ClCompile Include="26_Exam03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25_struct_偏移量.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="27_FileRWbyByte.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="28_指针其他.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="29_多级指针强化.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
