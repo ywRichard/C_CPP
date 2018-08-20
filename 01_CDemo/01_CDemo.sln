@@ -9,40 +9,63 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_配置文件读写", "02
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_文件的加密解密", "03_文件的加密解密.c\03_文件的加密解密.c.vcxproj", "{88A388CB-C4B9-4BF1-A18A-C1623410D43B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_PointOnC", "01_PointOnC\01_PointOnC.vcxproj", "{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0833B202-648D-4AB1-841B-C022D8026E52}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Debug|x64.ActiveCfg = Debug|x64
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Debug|x64.Build.0 = Debug|x64
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Debug|x86.ActiveCfg = Debug|Win32
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Debug|x86.Build.0 = Debug|Win32
+		{0833B202-648D-4AB1-841B-C022D8026E52}.Release|Any CPU.ActiveCfg = Release|Win32
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Release|x64.ActiveCfg = Release|x64
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Release|x64.Build.0 = Release|x64
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Release|x86.ActiveCfg = Release|Win32
 		{0833B202-648D-4AB1-841B-C022D8026E52}.Release|x86.Build.0 = Release|Win32
+		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Debug|x64.ActiveCfg = Debug|x64
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Debug|x64.Build.0 = Debug|x64
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Debug|x86.ActiveCfg = Debug|Win32
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Debug|x86.Build.0 = Debug|Win32
+		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Release|Any CPU.ActiveCfg = Release|Win32
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Release|x64.ActiveCfg = Release|x64
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Release|x64.Build.0 = Release|x64
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Release|x86.ActiveCfg = Release|Win32
 		{6CEB89BB-9B0A-4119-BBE7-B506B962BB18}.Release|x86.Build.0 = Release|Win32
+		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Debug|x64.ActiveCfg = Debug|x64
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Debug|x64.Build.0 = Debug|x64
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Debug|x86.ActiveCfg = Debug|Win32
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Debug|x86.Build.0 = Debug|Win32
+		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Release|Any CPU.ActiveCfg = Release|Win32
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Release|x64.ActiveCfg = Release|x64
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Release|x64.Build.0 = Release|x64
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Release|x86.ActiveCfg = Release|Win32
 		{88A388CB-C4B9-4BF1-A18A-C1623410D43B}.Release|x86.Build.0 = Release|Win32
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Debug|x64.ActiveCfg = Debug|x64
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Debug|x64.Build.0 = Debug|x64
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Debug|x86.Build.0 = Debug|Win32
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Release|Any CPU.ActiveCfg = Release|Win32
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Release|x64.ActiveCfg = Release|x64
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Release|x64.Build.0 = Release|x64
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Release|x86.ActiveCfg = Release|Win32
+		{EC1E9E1F-CA8D-4194-8CD5-4F21291C6348}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681FF4AF-E09A-40BD-B5B7-270CB38DB92D}
 	EndGlobalSection
 EndGlobal
