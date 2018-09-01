@@ -219,5 +219,7 @@ int test_bit(char *myarray, unsigned int index, unsigned int array_size)
         printf("func set_bit() index out of array size\n");
         return -1;
     }
+    printf("\n");
+    
     return myarray[index] != '0' ? 1 : 0;
 }
