@@ -1,3 +1,5 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include "stdafx.h"
 #include <stdio.h>
 #include <time.h>
 #include <string.h>
@@ -14,7 +16,8 @@ char *set_bit(char *myarray, unsigned int index, unsigned int array_size);
 char *clear_bit(char *myarray, unsigned int index, unsigned int array_size);
 char *assign_bit(char *myarray, unsigned int index, int value, unsigned int array_size);
 int test_bit(char *myarray, unsigned int index, unsigned int array_size);
-int main()
+
+int main05()
 {
     unsigned int input = 10;
     // printf("%d to Binary:", input);

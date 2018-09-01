@@ -7,7 +7,7 @@
 #include <limits.h>
 
 
-int main()
+int main02()
 {
 	//int a = 0b11110000;
 	//printf("Original value: %b\n", a);

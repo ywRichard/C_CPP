@@ -1,3 +1,1 @@
-﻿  02_EncDecFile.c
-  03_文件的加密解密.c.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\03_文件的加密解密.exe
-  03_文件的加密解密.c.vcxproj -> C:\Users\Admin\Desktop\C_CPP\01_CDemo\Debug\03_文件的加密解密.pdb (Partial PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: The Windows SDK version 10.0.15063.0 was not found. Install the required version of Windows SDK or change the SDK version in the project property pages or by right-clicking the solution and selecting "Retarget solution".

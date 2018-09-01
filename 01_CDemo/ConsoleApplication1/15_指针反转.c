@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
-# include <stdlib.h>
-# include <string.h>
-# include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
 
 //
 int inverse01(char *str1) {

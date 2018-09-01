@@ -153,6 +153,8 @@
   <ItemGroup>
     <ClCompile Include="01_PointOnC.c" />
     <ClCompile Include="02_BitwiseOperator.c" />
+    <ClCompile Include="Exercise_5.c" />
+    <ClCompile Include="Exercise_6.c" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
