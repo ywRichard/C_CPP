@@ -130,4 +130,6 @@ void reverse_string(char *string)
         *(string + i) = *(string + len - i - 1);
         *(string + len - i - 1) = tmp_chr;
     }
+
+    printf("\n");
 }
