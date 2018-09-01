@@ -23,13 +23,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="01_PointOnC.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="02_BitwiseOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="01_PointOnC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
