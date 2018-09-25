@@ -1,4 +1,4 @@
-#include <stodio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 //list command line parameter
