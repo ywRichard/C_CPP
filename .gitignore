@@ -235,3 +235,8 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 01_CDemo/01_PointOnC/a.out
+01_CDemo/01_PointOnC/01_PointOnC.vcxproj
+01_CDemo/01_PointOnC/01_PointOnC.vcxproj.filters
+01_CDemo/.vs/01_CDemo/v15/.suo
+01_CDemo/.vs/01_CDemo/v15/Browse.VC.db
+01_CDemo/.vs/01_CDemo/v15/Solution.VC.db
